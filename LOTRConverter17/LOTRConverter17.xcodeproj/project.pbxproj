@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		787940DF2BD2CF0E007DA8A1 /* SelectCurrency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787940DE2BD2CF0E007DA8A1 /* SelectCurrency.swift */; };
 		7891A0F12BB0BF5F00569C38 /* LOTRConverter17App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7891A0F02BB0BF5F00569C38 /* LOTRConverter17App.swift */; };
 		7891A0F32BB0BF5F00569C38 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7891A0F22BB0BF5F00569C38 /* ContentView.swift */; };
 		7891A0F52BB0BF6100569C38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7891A0F42BB0BF6100569C38 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		787940DE2BD2CF0E007DA8A1 /* SelectCurrency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectCurrency.swift; sourceTree = "<group>"; };
 		7891A0ED2BB0BF5F00569C38 /* LOTRConverter17.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LOTRConverter17.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7891A0F02BB0BF5F00569C38 /* LOTRConverter17App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LOTRConverter17App.swift; sourceTree = "<group>"; };
 		7891A0F22BB0BF5F00569C38 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				7891A0F02BB0BF5F00569C38 /* LOTRConverter17App.swift */,
 				7891A0F22BB0BF5F00569C38 /* ContentView.swift */,
+				787940DE2BD2CF0E007DA8A1 /* SelectCurrency.swift */,
 				78C03F8A2BC3570700CC8DA2 /* ExchangeInfo.swift */,
 				78C03F8C2BC3624F00CC8DA2 /* ExchangeRate.swift */,
 				7891A0F42BB0BF6100569C38 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				78C03F8D2BC3624F00CC8DA2 /* ExchangeRate.swift in Sources */,
+				787940DF2BD2CF0E007DA8A1 /* SelectCurrency.swift in Sources */,
 				78C03F8B2BC3570700CC8DA2 /* ExchangeInfo.swift in Sources */,
 				7891A0F32BB0BF5F00569C38 /* ContentView.swift in Sources */,
 				7891A0F12BB0BF5F00569C38 /* LOTRConverter17App.swift in Sources */,
